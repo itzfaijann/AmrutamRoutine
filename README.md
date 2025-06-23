@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🌿 AmrutamRoutine
+
+📦 **GitHub Repository**: [itzfaijann/AmrutamRoutine](https://github.com/itzfaijann/AmrutamRoutine)
 
 # Getting Started
 
@@ -95,3 +97,29 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+🔧 App Features
+📋 Add reminder items to routines (e.g., products, tasks)
+
+🗓 Add weekly benefits (0–2, 2–4, 4–6 weeks) with validation
+
+👨‍⚕️ Assign a caregiver with pending state and visual profile
+
+🔔 Add reminder channels (SMS, WhatsApp, Email)
+
+🖼 Image Picker integration (camera and gallery)
+
+🎨 Fully responsive custom UI using moderateScale and custom font utils
+
+
+
+Learn More
+To learn more about React Native, take a look at the following resources:
+
+React Native Website - learn more about React Native.
+
+Getting Started - an overview of React Native and how to set up your environment.
+
+Learn the Basics - a guided tour of the React Native basics.
+
+Blog - read the latest official React Native Blog posts.
+
